@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dyddlr068&show_icons=true&theme=tokyonight&hide_border=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dyddlr068)](https://solved.ac/dyddlr068)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dyddlr068&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=dyddlr068&theme=tokyonight&hide_border=true)
 
 <br/>
 
