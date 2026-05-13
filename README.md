@@ -31,11 +31,9 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dyddlr068)](https://solved.ac/dyddlr068)
-
-![Streak](https://streak-stats.demolab.com?user=dyddlr068&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dyddlr068&theme=tokyo-night&hide_border=true)
 
 <br/>
 
